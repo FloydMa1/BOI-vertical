@@ -6,8 +6,8 @@ our twist was our own boss.
 
 ## Features
 
-- [Boss Behaviour](https://github.com/FloydMa1/Minesweepre-proto/blob/master/cell.js)
-- [Player Movement](https://github.com/FloydMa1/Minesweepre-proto/blob/master/draw.js)
+- [Boss Behaviour](https://github.com/FloydMa1/BOI-vertical/tree/master/Assets/Scripts/Enemy)
+- [Player Movement](https://github.com/FloydMa1/BOI-vertical/tree/master/Assets/Scripts/Player)
 
 ## Software Anaylse 
 We wanted to make this project in unity because we had the most experience with it and
